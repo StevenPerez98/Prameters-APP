@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Elevatec GT</string>
+
+    <string name="stvf1">H.STVF1</string>
+    <string name="stvf5">H.STVF5</string>
+    <string name="stvf7">H.STVF7</string>
+    <string name="stvf9">WBVF</string>
+    <string name="xisi">H.XISI</string>
+    <string name="arca1">O.ARCA1</string>
+    <string name="arca2">O.ARCA2</string>
+    <string name="t50">TACK50</string>
+    <string name="dover">DOVER</string>
+
+    <string name="obra">No. Obra</string>
+    <string name="proyecto">Proyecto</string>
+    <string name="motor">Tipo de motor</string>
+    <string name="serie">Serie Elevador</string>
+    <string name="guardar">GUARDAR</string>
+
+    <string-array name="series">
+        <item>Seleccione</item>
+        <item>STVF 1</item>
+        <item>STVF 5</item>
+        <item>STVF 7</item>
+        <item>STVF 9</item>
+    </string-array>
+
+    <string-array name="motores">
+        <item>Seleccione</item>
+        <item>Sincrono</item>
+        <item>Asincrono</item>
+    </string-array>
+
+</resources>
